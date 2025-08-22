@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p144686-e1489994.adobeaemcloud.com"
+    url: "https://author-p144686-e1489994.adobeaemcloud.com/bin/franklin.delivery/ductuyen1997/ue-boilerplate/main"
     type: "markup"
     suffix: ".html"
